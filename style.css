@@ -1,0 +1,10 @@
+.imgProductos{
+	width: 150px;
+}
+.card{
+	display: flex;
+	align-items: center;
+}
+.colorBoton{
+	background-color: lightgrey;
+}
